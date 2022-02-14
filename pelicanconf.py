@@ -36,4 +36,7 @@ MARKDOWN = {
 }
 
 
-PLUGIN_PATHS = ['/media/cap/7fed51bd-a88e-4971-9656-d617655b6312/data/sources/reluctant/pelican_plugins/pelican-encrypt-content']
+PLUGIN_PATHS = ['./pelican_plugins']
+
+THEME = 'themes/Flex'
+
