@@ -1,6 +1,6 @@
-AUTHOR = 'Me'
+AUTHOR = 'Carlos Peralta'
 SITENAME = 'mypelicanwebsite'
-SITEURL = ''
+SITEURL = 'https://carlos9917.github.io/mypelicanwebsite/'
 
 PATH = 'content'
 
