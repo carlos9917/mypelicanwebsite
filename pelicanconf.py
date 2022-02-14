@@ -38,5 +38,5 @@ MARKDOWN = {
 
 PLUGIN_PATHS = ['./pelican_plugins']
 
-#THEME = 'themes/Flex'
+THEME = 'themes/Flex'
 
