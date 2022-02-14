@@ -36,7 +36,8 @@ MARKDOWN = {
 }
 
 
-PLUGIN_PATHS = ['./pelican_plugins']
+PLUGIN_PATHS = ['pelican-plugins',"pelican-plugins/pelican-encrypt-content/pelican/plugins"]
+PLUGINS = ['encrypt_content']
 
 #THEME = './themes/Flex'
 
@@ -46,3 +47,4 @@ ENCRYPT_CONTENT = {
     'summary': 'This content is encrypted.'
 }
 
+FAVICON = 'content/images/favicon.ico'
