@@ -9,7 +9,8 @@ Summary: Testing table
 And it looks wonderful!
 
 Table test
------  ------
+
+----- ------
 Test | Foo
 ---- | -----
 Bla  | Hello

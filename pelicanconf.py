@@ -40,3 +40,9 @@ PLUGIN_PATHS = ['./pelican_plugins']
 
 #THEME = './themes/Flex'
 
+
+ENCRYPT_CONTENT = {
+    'title_prefix': '[Encrypted]',
+    'summary': 'This content is encrypted.'
+}
+

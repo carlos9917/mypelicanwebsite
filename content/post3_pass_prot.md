@@ -1,4 +1,4 @@
-Title: Testing password protected content
+Title: Encrypted content
 Date: 2022-02-13
-Tags: test, secret
+Tags: encrypted
 Password: 12345678
